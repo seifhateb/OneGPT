@@ -73,10 +73,9 @@ That is why I am combining my experience in both fields to fine tune a GPT that 
 **Tips**
 Here are some keywords to trigger some GPT actions:
 
-"Retrieve" or "Based on your knowledge": retrieves information available in the knowledge.
+  "Retrieve" or "Based on your knowledge": retrieves information available in the knowledge.
 
-"Generate": used to trigger code interpreter.
-----------------------------------------------------------------------------------------------------------------
+  "Generate": used to trigger code interpreter.
 
 **Conclusion:** I know. It's a lot of GPTs, but hear me out. The same way you won't hire someone to handle it all, you also need AI assitant and models that are specialized and trained with real life examples. 
 
