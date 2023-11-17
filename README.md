@@ -36,7 +36,7 @@ Here is the list of the specialized Infosec GPTs I have created:
 **Link:** https://chat.openai.com/g/g-X3xNzIkbm-oneautosec
 
 
-**OneTelcoSec:** Telecom is a wide and complex field that is making our day-to-day life a breeze. But Security was historically neglected in this field for decades, from my own experience, I can tell you that Telco Security Practionners are as rare as unicorns. 
+**OneTelcoSec:** Telecom is a wide and complex field that is making our day-to-day life a breeze. But Security was historically neglected in this field for decades, from my own experience, I can tell you that Telco Security Practitioners are as rare as unicorns. 
 
 That is why I am combining my experience in both fields to fine tune a GPT that will enrich this intersection of two complex areas and produce a methodical and straight forward guidance. 
 
